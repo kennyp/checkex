@@ -1,0 +1,2 @@
+defmodule Checkex do
+end
